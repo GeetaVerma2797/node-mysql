@@ -10,20 +10,20 @@
     "connectTimeout": 10000,
     "acquireTimeout": 10000
   },
-  "ENC_KEY": "d909dg78609e47ak47diy4cf87t90c4a",
+  "ENC_KEY": "Y45hsgdsh34egU7fghdsfgshfgfdhf5d",
   "jwt": {
-    "SECRET": "my32Bit_LONG@-@SuPeRR_SecRET_KEY",
+    "SECRET": "my32Bit_LONG@-@tokenn_SecRET_KEY",
     "EXPIRES_IN": "1d",
     "TXN_TOKEN_EXPIRY": "900000"
   },
   "JWT_ENCRYPTION": {
-    "JWT_ENC_KEY": "d909dg78609e47ak47diy4cf87t90c4a",
-    "JWT_ENC_IV": "4009401404502765",
+    "JWT_ENC_KEY": "Y45hsgdsh34egU7fghdsfgshfgfdhf5d",
+    "JWT_ENC_IV": "4008347356345027",
     "JWT_ENC_ALGO": "aes-256-cbc"
   },
   "ENCRYPTION": {
-    "ENC_KEY": "d909dg78609e47ak47diy4cf87t90c4a",
-    "ENC_IV": "4009401404502765",
+    "ENC_KEY": "Y45hsgdsh34egU7fghdsfgshfgfdhf5d",
+    "ENC_IV": "4008347356345027",
     "ENC_ALGO": "aes-256-cbc"
   }
 }

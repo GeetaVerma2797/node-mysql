@@ -1,0 +1,29 @@
+{
+  "db": {
+    "host": "localhost",
+    "port": 3306,
+    "user": "root",
+    "password": "",
+    "database": "crud",
+    "debug": false,
+    "multipleStatements": true,
+    "connectTimeout": 10000,
+    "acquireTimeout": 10000
+  },
+  "ENC_KEY": "d909dg78609e47ak47diy4cf87t90c4a",
+  "jwt": {
+    "SECRET": "my32Bit_LONG@-@SuPeRR_SecRET_KEY",
+    "EXPIRES_IN": "1d",
+    "TXN_TOKEN_EXPIRY": "900000"
+  },
+  "JWT_ENCRYPTION": {
+    "JWT_ENC_KEY": "d909dg78609e47ak47diy4cf87t90c4a",
+    "JWT_ENC_IV": "4009401404502765",
+    "JWT_ENC_ALGO": "aes-256-cbc"
+  },
+  "ENCRYPTION": {
+    "ENC_KEY": "d909dg78609e47ak47diy4cf87t90c4a",
+    "ENC_IV": "4009401404502765",
+    "ENC_ALGO": "aes-256-cbc"
+  }
+}
